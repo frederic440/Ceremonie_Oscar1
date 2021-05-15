@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Ceremonie_Oscar;
 
 namespace Crud_Demo_UsingSQLIte.Droid
 {

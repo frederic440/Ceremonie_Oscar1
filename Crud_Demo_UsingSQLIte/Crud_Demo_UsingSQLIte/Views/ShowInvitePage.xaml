@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             Title="Liste des invités"
+             x:Class="Crud_Demo_UsingSQLIte.Views.ShowInvitePage">
+    <ContentPage.Content>
+        <StackLayout Margin="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Button Text="Ajouter un invité" x:Name="BtnAjoutCInvite"  HorizontalOptions="Start" d:HorizontalOptions="Center" Clicked="BtnAjoutInvite_Clicked" />
+
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Text="Nom"  FontAttributes="Bold" HorizontalTextAlignment="Start"  Grid.Row="0" Grid.Column="0" />
+                <Label Text="Prénom"  FontAttributes="Bold" HorizontalTextAlignment="Start"  Grid.Row="0" Grid.Column="1" />
+                <Label Text="Email" FontAttributes="Bold" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="2" />
+                <Label Text="Adresse" FontAttributes="Bold" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="3" />
+                <Label Text="Siège" FontAttributes="Bold" HorizontalTextAlignment="Start" Grid.Row="0" Grid.Column="4" />
+            </Grid>
+            <ListView x:Name="lstData" HasUnevenRows="True" ItemSelected="LstData_ItemSelected" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Frame HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                        <ColumnDefinition></ColumnDefinition>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="{Binding Nom}" Grid.Row="0" Grid.Column="0" />
+                                    <Label Text="{Binding Prenom}" Grid.Row="0" Grid.Column="1" />
+                                    <Label Text="{Binding Email}" Grid.Row="0" Grid.Column="2" />
+                                    <Label Text="{Binding Address}" Grid.Row="0" Grid.Column="3" />
+                                    <Label Text="{Binding Siege}" Grid.Row="0" Grid.Column="4"/>
+                                </Grid>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

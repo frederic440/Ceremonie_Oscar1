@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Ajout d'invités"
+             x:Class="Crud_Demo_UsingSQLIte.Views.AddInvite">
+    <ContentPage.Content>
+        <StackLayout Margin="10" VerticalOptions="StartAndExpand" HorizontalOptions="FillAndExpand">
+            <Entry x:Name="txtNom" Placeholder="Nom..." />
+            <Entry x:Name="txtPrenom" Placeholder="Prénom" />
+            <Entry x:Name="txtEmail" Placeholder="Email..." />
+            <Entry x:Name="txtAddress" Placeholder="Enter Adresse..." />
+            <Entry x:Name="txtSiege" Placeholder="Numéro de siège..." />
+            <Button x:Name="btnSaveUpdate" Text="Save" Clicked="BtnSaveUpdate_ClickedAsync" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
