@@ -25,6 +25,376 @@ namespace Crud_Demo_UsingSQLIte.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.alpha = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.alpha;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.coordinatorLayoutStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.font = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.font;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontProviderAuthority = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontProviderCerts = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderCerts;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontProviderFetchStrategy = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontProviderFetchTimeout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontProviderPackage = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderPackage;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontProviderQuery = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderQuery;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontStyle;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontVariationSettings = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontVariationSettings;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.fontWeight = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontWeight;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.keylines = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.keylines;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.layout_anchor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_anchor;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.layout_anchorGravity = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.layout_behavior = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_behavior;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.layout_dodgeInsetEdges = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.layout_insetEdge = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_insetEdge;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.layout_keyline = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_keyline;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.statusBarBackground = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.statusBarBackground;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Attribute.ttcIndex = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.ttcIndex;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Color.browser_actions_bg_grey = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Color.browser_actions_divider_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.browser_actions_divider_color;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Color.browser_actions_text_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.browser_actions_text_color;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Color.browser_actions_title_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.browser_actions_title_color;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Color.notification_action_color_filter = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.notification_action_color_filter;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Color.notification_icon_bg_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.notification_icon_bg_color;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Color.ripple_material_light = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.ripple_material_light;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Color.secondary_text_default_material_light = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.browser_actions_context_menu_max_width = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.browser_actions_context_menu_min_padding = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.compat_button_inset_horizontal_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.compat_button_inset_vertical_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.compat_button_padding_horizontal_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.compat_button_padding_vertical_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.compat_control_corner_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.compat_notification_large_icon_max_height = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.compat_notification_large_icon_max_width = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_action_icon_size = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_action_text_size = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_action_text_size;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_big_circle_margin = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_content_margin_start = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_large_icon_height = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_large_icon_width = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_main_column_padding_top = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_media_narrow_margin = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_right_icon_size = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_right_side_padding_top = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_small_icon_background_padding = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_small_icon_size_as_large = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_subtext_size = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_subtext_size;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_top_pad = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_top_pad;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Dimension.notification_top_pad_large_text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_action_background = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_action_background;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_bg_low = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_low;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_bg_low_normal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_bg_low_pressed = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_bg_normal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_normal;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_bg_normal_pressed = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_icon_background = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_icon_background;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_template_icon_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_template_icon_low_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notification_tile_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_tile_bg;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Drawable.notify_panel_notification_icon_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.actions = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.actions;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.action_container = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.action_container;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.action_divider = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.action_divider;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.action_image = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.action_image;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.action_text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.action_text;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.all = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.all;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.async = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.async;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.blocking = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.blocking;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.bottom = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.bottom;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.browser_actions_header_text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_header_text;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.browser_actions_menu_items = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_menu_items;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.browser_actions_menu_item_icon = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.browser_actions_menu_item_text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.browser_actions_menu_view = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_menu_view;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.center = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.center;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.center_horizontal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.center_horizontal;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.center_vertical = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.center_vertical;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.chronometer = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.chronometer;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.clip_horizontal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.clip_horizontal;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.clip_vertical = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.clip_vertical;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.end = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.end;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.fill = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.fill;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.fill_horizontal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.fill_horizontal;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.fill_vertical = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.fill_vertical;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.forever = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.forever;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.icon = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.icon;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.icon_group = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.icon_group;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.info = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.info;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.italic = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.italic;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.left = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.left;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.line1 = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.line1;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.line3 = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.line3;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.none = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.none;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.normal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.normal;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.notification_background = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.notification_background;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.notification_main_column = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.notification_main_column;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.notification_main_column_container = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.notification_main_column_container;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.right = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.right;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.right_icon = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.right_icon;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.right_side = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.right_side;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.start = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.start;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.tag_transition_group = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.tag_transition_group;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.tag_unhandled_key_event_manager = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.tag_unhandled_key_listeners = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.text;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.text2 = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.text2;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.time = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.time;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.title = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.title;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Id.top = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.top;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Integer.status_bar_notification_info_maxnum = global::Crud_Demo_UsingSQLIte.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Layout.browser_actions_context_menu_page = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Layout.browser_actions_context_menu_row = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Layout.notification_action = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_action;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Layout.notification_action_tombstone = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_action_tombstone;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Layout.notification_template_custom_big = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_template_custom_big;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Layout.notification_template_icon_group = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_template_icon_group;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Layout.notification_template_part_chronometer = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Layout.notification_template_part_time = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_template_part_time;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.String.ApplicationName = global::Crud_Demo_UsingSQLIte.Droid.Resource.String.ApplicationName;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.String.Hello = global::Crud_Demo_UsingSQLIte.Droid.Resource.String.Hello;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.String.status_bar_notification_info_overflow = global::Crud_Demo_UsingSQLIte.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Style.TextAppearance_Compat_Notification = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Style.TextAppearance_Compat_Notification_Info = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Style.TextAppearance_Compat_Notification_Time = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Style.TextAppearance_Compat_Notification_Title = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Style.Widget_Compat_NotificationActionContainer = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Style.Widget_Compat_NotificationActionText = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Style.Widget_Support_CoordinatorLayout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.ColorStateListItem = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.ColorStateListItem;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.ColorStateListItem_alpha = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.ColorStateListItem_android_alpha = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.ColorStateListItem_android_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_keylines = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_Layout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamily = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_android_font = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_font = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_fontStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_fontWeight = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamilyFont_ttcIndex = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamily_fontProviderAuthority = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamily_fontProviderCerts = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamily_fontProviderPackage = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.FontFamily_fontProviderQuery = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColorItem = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColorItem;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColorItem_android_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColorItem_android_offset = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_centerColor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_centerX = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_centerY = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_endColor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_endX = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_endY = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_gradientRadius = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_startColor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_startX = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_startY = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_tileMode = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Styleable.GradientColor_android_type = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Microsoft.WindowsAzure.MobileServices.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Crud_Demo_UsingSQLIte.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.alpha = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.alpha;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.coordinatorLayoutStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.coordinatorLayoutStyle;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.font = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.font;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontProviderAuthority = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontProviderCerts = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderCerts;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontProviderFetchStrategy = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontProviderFetchTimeout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontProviderPackage = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderPackage;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontProviderQuery = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontProviderQuery;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontStyle;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontVariationSettings = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontVariationSettings;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.fontWeight = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.fontWeight;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.keylines = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.keylines;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.layout_anchor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_anchor;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.layout_anchorGravity = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_anchorGravity;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.layout_behavior = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_behavior;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.layout_dodgeInsetEdges = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.layout_insetEdge = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_insetEdge;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.layout_keyline = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.layout_keyline;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.statusBarBackground = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.statusBarBackground;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Attribute.ttcIndex = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.ttcIndex;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Color.browser_actions_bg_grey = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.browser_actions_bg_grey;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Color.browser_actions_divider_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.browser_actions_divider_color;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Color.browser_actions_text_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.browser_actions_text_color;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Color.browser_actions_title_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.browser_actions_title_color;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Color.notification_action_color_filter = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.notification_action_color_filter;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Color.notification_icon_bg_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.notification_icon_bg_color;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Color.ripple_material_light = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.ripple_material_light;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Color.secondary_text_default_material_light = global::Crud_Demo_UsingSQLIte.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.browser_actions_context_menu_max_width = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.browser_actions_context_menu_max_width;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.browser_actions_context_menu_min_padding = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.browser_actions_context_menu_min_padding;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.compat_button_inset_horizontal_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.compat_button_inset_vertical_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.compat_button_padding_horizontal_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.compat_button_padding_vertical_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.compat_control_corner_material = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.compat_notification_large_icon_max_height = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.compat_notification_large_icon_max_width = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_action_icon_size = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_action_text_size = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_action_text_size;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_big_circle_margin = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_content_margin_start = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_large_icon_height = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_large_icon_width = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_main_column_padding_top = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_media_narrow_margin = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_right_icon_size = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_right_side_padding_top = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_small_icon_background_padding = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_small_icon_size_as_large = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_subtext_size = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_subtext_size;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_top_pad = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_top_pad;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Dimension.notification_top_pad_large_text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_action_background = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_action_background;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_bg_low = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_low;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_bg_low_normal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_bg_low_pressed = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_bg_normal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_normal;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_bg_normal_pressed = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_icon_background = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_icon_background;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_template_icon_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_template_icon_low_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notification_tile_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notification_tile_bg;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Drawable.notify_panel_notification_icon_bg = global::Crud_Demo_UsingSQLIte.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.actions = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.actions;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.action_container = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.action_container;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.action_divider = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.action_divider;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.action_image = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.action_image;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.action_text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.action_text;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.all = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.all;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.async = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.async;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.blocking = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.blocking;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.bottom = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.bottom;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.browser_actions_header_text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_header_text;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.browser_actions_menu_items = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_menu_items;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.browser_actions_menu_item_icon = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_menu_item_icon;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.browser_actions_menu_item_text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_menu_item_text;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.browser_actions_menu_view = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.browser_actions_menu_view;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.center = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.center;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.center_horizontal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.center_horizontal;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.center_vertical = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.center_vertical;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.chronometer = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.chronometer;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.clip_horizontal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.clip_horizontal;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.clip_vertical = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.clip_vertical;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.end = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.end;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.fill = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.fill;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.fill_horizontal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.fill_horizontal;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.fill_vertical = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.fill_vertical;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.forever = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.forever;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.icon = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.icon;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.icon_group = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.icon_group;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.info = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.info;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.italic = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.italic;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.left = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.left;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.line1 = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.line1;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.line3 = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.line3;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.none = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.none;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.normal = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.normal;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.notification_background = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.notification_background;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.notification_main_column = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.notification_main_column;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.notification_main_column_container = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.notification_main_column_container;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.right = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.right;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.right_icon = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.right_icon;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.right_side = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.right_side;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.start = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.start;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.tag_transition_group = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.tag_transition_group;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.tag_unhandled_key_event_manager = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.tag_unhandled_key_event_manager;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.tag_unhandled_key_listeners = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.tag_unhandled_key_listeners;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.text = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.text;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.text2 = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.text2;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.time = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.time;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.title = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.title;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Id.top = global::Crud_Demo_UsingSQLIte.Droid.Resource.Id.top;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Integer.status_bar_notification_info_maxnum = global::Crud_Demo_UsingSQLIte.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Layout.browser_actions_context_menu_page = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.browser_actions_context_menu_page;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Layout.browser_actions_context_menu_row = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.browser_actions_context_menu_row;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Layout.notification_action = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_action;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Layout.notification_action_tombstone = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_action_tombstone;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Layout.notification_template_custom_big = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_template_custom_big;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Layout.notification_template_icon_group = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_template_icon_group;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Layout.notification_template_part_chronometer = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Layout.notification_template_part_time = global::Crud_Demo_UsingSQLIte.Droid.Resource.Layout.notification_template_part_time;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.String.ApplicationName = global::Crud_Demo_UsingSQLIte.Droid.Resource.String.ApplicationName;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.String.Hello = global::Crud_Demo_UsingSQLIte.Droid.Resource.String.Hello;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.String.status_bar_notification_info_overflow = global::Crud_Demo_UsingSQLIte.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Style.TextAppearance_Compat_Notification = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Style.TextAppearance_Compat_Notification_Info = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Style.TextAppearance_Compat_Notification_Time = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Style.TextAppearance_Compat_Notification_Title = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Style.Widget_Compat_NotificationActionContainer = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Style.Widget_Compat_NotificationActionText = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Style.Widget_Support_CoordinatorLayout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.ColorStateListItem = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.ColorStateListItem;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.ColorStateListItem_alpha = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.ColorStateListItem_android_alpha = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.ColorStateListItem_android_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_keylines = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_Layout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamily = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_android_font = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_font = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_fontStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_fontWeight = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamilyFont_ttcIndex = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamily_fontProviderAuthority = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamily_fontProviderCerts = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamily_fontProviderPackage = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.FontFamily_fontProviderQuery = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColorItem = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColorItem;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColorItem_android_color = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColorItem_android_color;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColorItem_android_offset = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColorItem_android_offset;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_centerColor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_centerColor;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_centerX = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_centerX;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_centerY = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_centerY;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_endColor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_endColor;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_endX = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_endX;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_endY = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_endY;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_gradientRadius = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_startColor = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_startColor;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_startX = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_startX;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_startY = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_startY;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_tileMode = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_tileMode;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Styleable.GradientColor_android_type = global::Crud_Demo_UsingSQLIte.Droid.Resource.Styleable.GradientColor_android_type;
+			global::Microsoft.WindowsAzure.MobileServices.SQLiteStore.Resource.Xml.xamarin_essentials_fileprovider_file_paths = global::Crud_Demo_UsingSQLIte.Droid.Resource.Xml.xamarin_essentials_fileprovider_file_paths;
+			global::PCLCrypto.Resource.String.ApplicationName = global::Crud_Demo_UsingSQLIte.Droid.Resource.String.ApplicationName;
+			global::PCLCrypto.Resource.String.Hello = global::Crud_Demo_UsingSQLIte.Droid.Resource.String.Hello;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Crud_Demo_UsingSQLIte.Droid.Resource.Attribute.font;
@@ -9338,167 +9708,173 @@ namespace Crud_Demo_UsingSQLIte.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0D0000
-			public const int abc_action_bar_home_description = 2131558400;
-			
-			// aapt resource value: 0x7F0D0001
-			public const int abc_action_bar_up_description = 2131558401;
-			
 			// aapt resource value: 0x7F0D0002
-			public const int abc_action_menu_overflow_description = 2131558402;
+			public const int abc_action_bar_home_description = 2131558402;
 			
 			// aapt resource value: 0x7F0D0003
-			public const int abc_action_mode_done = 2131558403;
-			
-			// aapt resource value: 0x7F0D0005
-			public const int abc_activitychooserview_choose_application = 2131558405;
+			public const int abc_action_bar_up_description = 2131558403;
 			
 			// aapt resource value: 0x7F0D0004
-			public const int abc_activity_chooser_view_see_all = 2131558404;
+			public const int abc_action_menu_overflow_description = 2131558404;
 			
-			// aapt resource value: 0x7F0D0006
-			public const int abc_capital_off = 2131558406;
+			// aapt resource value: 0x7F0D0005
+			public const int abc_action_mode_done = 2131558405;
 			
 			// aapt resource value: 0x7F0D0007
-			public const int abc_capital_on = 2131558407;
+			public const int abc_activitychooserview_choose_application = 2131558407;
+			
+			// aapt resource value: 0x7F0D0006
+			public const int abc_activity_chooser_view_see_all = 2131558406;
 			
 			// aapt resource value: 0x7F0D0008
-			public const int abc_font_family_body_1_material = 2131558408;
+			public const int abc_capital_off = 2131558408;
 			
 			// aapt resource value: 0x7F0D0009
-			public const int abc_font_family_body_2_material = 2131558409;
+			public const int abc_capital_on = 2131558409;
 			
 			// aapt resource value: 0x7F0D000A
-			public const int abc_font_family_button_material = 2131558410;
+			public const int abc_font_family_body_1_material = 2131558410;
 			
 			// aapt resource value: 0x7F0D000B
-			public const int abc_font_family_caption_material = 2131558411;
+			public const int abc_font_family_body_2_material = 2131558411;
 			
 			// aapt resource value: 0x7F0D000C
-			public const int abc_font_family_display_1_material = 2131558412;
+			public const int abc_font_family_button_material = 2131558412;
 			
 			// aapt resource value: 0x7F0D000D
-			public const int abc_font_family_display_2_material = 2131558413;
+			public const int abc_font_family_caption_material = 2131558413;
 			
 			// aapt resource value: 0x7F0D000E
-			public const int abc_font_family_display_3_material = 2131558414;
+			public const int abc_font_family_display_1_material = 2131558414;
 			
 			// aapt resource value: 0x7F0D000F
-			public const int abc_font_family_display_4_material = 2131558415;
+			public const int abc_font_family_display_2_material = 2131558415;
 			
 			// aapt resource value: 0x7F0D0010
-			public const int abc_font_family_headline_material = 2131558416;
+			public const int abc_font_family_display_3_material = 2131558416;
 			
 			// aapt resource value: 0x7F0D0011
-			public const int abc_font_family_menu_material = 2131558417;
+			public const int abc_font_family_display_4_material = 2131558417;
 			
 			// aapt resource value: 0x7F0D0012
-			public const int abc_font_family_subhead_material = 2131558418;
+			public const int abc_font_family_headline_material = 2131558418;
 			
 			// aapt resource value: 0x7F0D0013
-			public const int abc_font_family_title_material = 2131558419;
+			public const int abc_font_family_menu_material = 2131558419;
 			
 			// aapt resource value: 0x7F0D0014
-			public const int abc_menu_alt_shortcut_label = 2131558420;
+			public const int abc_font_family_subhead_material = 2131558420;
 			
 			// aapt resource value: 0x7F0D0015
-			public const int abc_menu_ctrl_shortcut_label = 2131558421;
+			public const int abc_font_family_title_material = 2131558421;
 			
 			// aapt resource value: 0x7F0D0016
-			public const int abc_menu_delete_shortcut_label = 2131558422;
+			public const int abc_menu_alt_shortcut_label = 2131558422;
 			
 			// aapt resource value: 0x7F0D0017
-			public const int abc_menu_enter_shortcut_label = 2131558423;
+			public const int abc_menu_ctrl_shortcut_label = 2131558423;
 			
 			// aapt resource value: 0x7F0D0018
-			public const int abc_menu_function_shortcut_label = 2131558424;
+			public const int abc_menu_delete_shortcut_label = 2131558424;
 			
 			// aapt resource value: 0x7F0D0019
-			public const int abc_menu_meta_shortcut_label = 2131558425;
+			public const int abc_menu_enter_shortcut_label = 2131558425;
 			
 			// aapt resource value: 0x7F0D001A
-			public const int abc_menu_shift_shortcut_label = 2131558426;
+			public const int abc_menu_function_shortcut_label = 2131558426;
 			
 			// aapt resource value: 0x7F0D001B
-			public const int abc_menu_space_shortcut_label = 2131558427;
+			public const int abc_menu_meta_shortcut_label = 2131558427;
 			
 			// aapt resource value: 0x7F0D001C
-			public const int abc_menu_sym_shortcut_label = 2131558428;
+			public const int abc_menu_shift_shortcut_label = 2131558428;
 			
 			// aapt resource value: 0x7F0D001D
-			public const int abc_prepend_shortcut_label = 2131558429;
-			
-			// aapt resource value: 0x7F0D001F
-			public const int abc_searchview_description_clear = 2131558431;
-			
-			// aapt resource value: 0x7F0D0020
-			public const int abc_searchview_description_query = 2131558432;
-			
-			// aapt resource value: 0x7F0D0021
-			public const int abc_searchview_description_search = 2131558433;
-			
-			// aapt resource value: 0x7F0D0022
-			public const int abc_searchview_description_submit = 2131558434;
-			
-			// aapt resource value: 0x7F0D0023
-			public const int abc_searchview_description_voice = 2131558435;
+			public const int abc_menu_space_shortcut_label = 2131558429;
 			
 			// aapt resource value: 0x7F0D001E
-			public const int abc_search_hint = 2131558430;
+			public const int abc_menu_sym_shortcut_label = 2131558430;
+			
+			// aapt resource value: 0x7F0D001F
+			public const int abc_prepend_shortcut_label = 2131558431;
+			
+			// aapt resource value: 0x7F0D0021
+			public const int abc_searchview_description_clear = 2131558433;
+			
+			// aapt resource value: 0x7F0D0022
+			public const int abc_searchview_description_query = 2131558434;
+			
+			// aapt resource value: 0x7F0D0023
+			public const int abc_searchview_description_search = 2131558435;
 			
 			// aapt resource value: 0x7F0D0024
-			public const int abc_shareactionprovider_share_with = 2131558436;
+			public const int abc_searchview_description_submit = 2131558436;
 			
 			// aapt resource value: 0x7F0D0025
-			public const int abc_shareactionprovider_share_with_application = 2131558437;
+			public const int abc_searchview_description_voice = 2131558437;
+			
+			// aapt resource value: 0x7F0D0020
+			public const int abc_search_hint = 2131558432;
 			
 			// aapt resource value: 0x7F0D0026
-			public const int abc_toolbar_collapse_description = 2131558438;
+			public const int abc_shareactionprovider_share_with = 2131558438;
 			
 			// aapt resource value: 0x7F0D0027
-			public const int appbar_scrolling_view_behavior = 2131558439;
+			public const int abc_shareactionprovider_share_with_application = 2131558439;
 			
 			// aapt resource value: 0x7F0D0028
-			public const int bottom_sheet_behavior = 2131558440;
+			public const int abc_toolbar_collapse_description = 2131558440;
 			
 			// aapt resource value: 0x7F0D0029
-			public const int character_counter_content_description = 2131558441;
+			public const int appbar_scrolling_view_behavior = 2131558441;
+			
+			// aapt resource value: 0x7F0D0000
+			public const int ApplicationName = 2131558400;
 			
 			// aapt resource value: 0x7F0D002A
-			public const int character_counter_pattern = 2131558442;
+			public const int bottom_sheet_behavior = 2131558442;
 			
 			// aapt resource value: 0x7F0D002B
-			public const int fab_transformation_scrim_behavior = 2131558443;
+			public const int character_counter_content_description = 2131558443;
 			
 			// aapt resource value: 0x7F0D002C
-			public const int fab_transformation_sheet_behavior = 2131558444;
+			public const int character_counter_pattern = 2131558444;
 			
 			// aapt resource value: 0x7F0D002D
-			public const int hide_bottom_view_on_scroll_behavior = 2131558445;
+			public const int fab_transformation_scrim_behavior = 2131558445;
 			
 			// aapt resource value: 0x7F0D002E
-			public const int mtrl_chip_close_icon_content_description = 2131558446;
+			public const int fab_transformation_sheet_behavior = 2131558446;
+			
+			// aapt resource value: 0x7F0D0001
+			public const int Hello = 2131558401;
 			
 			// aapt resource value: 0x7F0D002F
-			public const int password_toggle_content_description = 2131558447;
+			public const int hide_bottom_view_on_scroll_behavior = 2131558447;
 			
 			// aapt resource value: 0x7F0D0030
-			public const int path_password_eye = 2131558448;
+			public const int mtrl_chip_close_icon_content_description = 2131558448;
 			
 			// aapt resource value: 0x7F0D0031
-			public const int path_password_eye_mask_strike_through = 2131558449;
+			public const int password_toggle_content_description = 2131558449;
 			
 			// aapt resource value: 0x7F0D0032
-			public const int path_password_eye_mask_visible = 2131558450;
+			public const int path_password_eye = 2131558450;
 			
 			// aapt resource value: 0x7F0D0033
-			public const int path_password_strike_through = 2131558451;
+			public const int path_password_eye_mask_strike_through = 2131558451;
 			
 			// aapt resource value: 0x7F0D0034
-			public const int search_menu_title = 2131558452;
+			public const int path_password_eye_mask_visible = 2131558452;
 			
 			// aapt resource value: 0x7F0D0035
-			public const int status_bar_notification_info_overflow = 2131558453;
+			public const int path_password_strike_through = 2131558453;
+			
+			// aapt resource value: 0x7F0D0036
+			public const int search_menu_title = 2131558454;
+			
+			// aapt resource value: 0x7F0D0037
+			public const int status_bar_notification_info_overflow = 2131558455;
 			
 			static String()
 			{

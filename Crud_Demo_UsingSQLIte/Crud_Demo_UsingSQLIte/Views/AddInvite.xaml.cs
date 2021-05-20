@@ -56,7 +56,7 @@ namespace Crud_Demo_UsingSQLIte.Views
             }
             else
             {
-                _services.InsertInvite(obj);
+               _services.InsertInvite(obj);
             }
             await this.Navigation.PopAsync();
         }
